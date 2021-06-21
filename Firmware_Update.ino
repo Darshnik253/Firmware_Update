@@ -9,8 +9,8 @@
 #define URL_fw_Version "https://raw.githubusercontent.com/Darshnik253/Firmware_Update/master/version.txt"
 #define URL_fw_Bin "https://raw.githubusercontent.com/Darshnik253/Firmware_Update/master/Firmware_Update.bin"
 #define ledPin 3
-const char * ssid = "Home Jio";
-const char * password = "123456789";
+const char * ssid = "Realme 7";
+const char * password = "Darshnik";
 
 FirebaseData firebaseData;
 
